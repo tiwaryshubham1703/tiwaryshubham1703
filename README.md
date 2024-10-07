@@ -1,7 +1,6 @@
 ### Hi there! 👋 I'm Subham Kumar
 
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Python, Django, and Flask.
 - 💞️ I’m looking to collaborate on open-source projects related to web development, AI, and innovative tech solutions.
 - 📫 How to reach me: tiwaryshubham1703@gmail.com or [LinkedIn](https://www.linkedin.com/in/subhamkumar1703/)
 - 😄 Pronouns: He/Him
